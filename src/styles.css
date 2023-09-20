@@ -1,0 +1,15 @@
+#blueButton {
+  background-color: blue;
+  font-size: 25px;
+  font-weight: bolder;
+  color: whitesmoke;
+}
+#redButton {
+  background-color: red;
+  font-size: 25px;
+  font-weight: bolder;
+  color: whitesmoke;
+}
+#para {
+  font-size: 25px;
+}
